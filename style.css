@@ -56,9 +56,19 @@ nav a{
 nav a:hover{
     color:#ffd1e6;
 }
+
 .banner{
-    background: linear-gradient(135deg,#d81b60,#880e4f);
-    color: white;
-    text-align: center;
-    padding: 80px 20px;
+    background: linear-gradient(135deg,#ff69b4,#880e4f);
+    color:white;
+    text-align:center;
+    padding:80px 20px;
+}
+
+.banner h2{
+    font-size:42px;
+    margin-bottom:15px;
+}
+
+.banner p{
+    font-size:20px;
 }
