@@ -39,3 +39,26 @@ footer{
     color:white;
     padding:20px;
 }
+nav{
+    background:#880e4f;
+    padding:18px;
+    text-align:center;
+}
+
+nav a{
+    color:white;
+    text-decoration:none;
+    margin:20px;
+    font-size:18px;
+    font-weight:bold;
+}
+
+nav a:hover{
+    color:#ffd1e6;
+}
+.banner{
+    background: linear-gradient(135deg,#d81b60,#880e4f);
+    color: white;
+    text-align: center;
+    padding: 80px 20px;
+}
